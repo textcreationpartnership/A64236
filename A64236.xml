@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Richard Taylor, Esq a member of the honourable, the House of Commons, and John Clerkson, Esq; the two surviving trustees of Hannah Knight, an infant, daughter of John Knight, Esq; lately deceased, by Mary his wife.</title>
+            <author>Taylor, Richard, fl. 1690-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64236</idno>
+            <idno type="STC">Wing T549A</idno>
+            <idno type="STC">ESTC R218877</idno>
+            <idno type="EEBO-CITATION">99830431</idno>
+            <idno type="PROQUEST">99830431</idno>
+            <idno type="VID">34882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2022:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Richard Taylor, Esq a member of the honourable, the House of Commons, and John Clerkson, Esq; the two surviving trustees of Hannah Knight, an infant, daughter of John Knight, Esq; lately deceased, by Mary his wife.</title>
+                  <author>Taylor, Richard, fl. 1690-1696.</author>
+                  <author>Clerkson, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Docket title: The case of Richard Taylor, Esq; a member of the honourable the House of Commons, concerning Hannah Knight, an infant.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Knight, Hannah --  Early works to 1800.</term>
+               <term>Kidnapping --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34882:1"/>
+            <head>THE CASE OF Richard Taylor, <hi>
+                  <abbr>Eſq</abbr> a Member of the Honourable, the</hi> Houſe of Commons, <hi>and</hi> John Clerkſon, <hi>
+                  <abbr>Eſq</abbr> the two ſurviving Truſtees of</hi> Hannah Knight, <hi>an Infant, Daughter of</hi> John Knight, <hi>
+                  <abbr>Eſq</abbr> lately Deceaſed, by</hi> Mary <hi>his Wife.</hi>
+            </head>
+            <p>BY Indentures of Leaſe and Releaſe,<note place="margin">
+                  <hi>21th.</hi> and <hi>22th.</hi> of May, 1683.</note> Sir <hi>Ralph Knight</hi> late of <hi>Langoll</hi> in the County of <hi>York,</hi> Knight, in Conſideration of a Marriage then intended to be had between <hi>John Knight,</hi> his Eldeſt Son, and <hi>Mary</hi> the Daughter of <hi>Robert Clerkſon,</hi> 
+               <abbr>Eſq</abbr> did convey the Mannor of <hi>Letwell</hi> in the County of <hi>York,</hi> with divers Lands, and Hereditaments in the County of <hi>Nottingham,</hi> to the ſaid <hi>John Clerkſon, Richard Taylor, Robert Nott,</hi> and <hi>Nicholas Fownes</hi> (which ſaid <hi>Fownes</hi> and <hi>Nott</hi> are ſince dead) for the Term of 500 Years to com<g ref="char:EOLhyphen"/>mence from the ſeveral Deaths of the ſaid Sir <hi>Ralph Knight,</hi> and <hi>John Knight,</hi> in truſt for the raiſing of Portions for Younger Children of the ſaid intended Marriage, <hi>viz.</hi>) if there was but one Daughter (and no iſſue Male) then to raiſe 5000 <hi>l.</hi> Portion for ſuch Daughter, payable at her Age of One and Twenty, or day of Marriage, which ſhould firſt hap<g ref="char:EOLhyphen"/>pen, and ſuch Maintenance, as the Truſtees, or the Survivor of them ſhould think fit, not exceeding 60 <hi>l. per Ann.</hi>
+            </p>
+            <p>The Marriage ſoon after took Effect.</p>
+            <p>The ſaid <hi>John Knight,</hi>
+               <note place="margin">
+                  <hi>21th.</hi> of <hi>December,</hi> 1686.</note> and <hi>Mary</hi> his Wife had Iſſue a Daughter (being the above named <hi>Hannah</hi> the Infant) who was Baptized on the firſt Day of <hi>January</hi> following.</p>
+            <p>The ſaid <hi>John Knight</hi> died,<note place="margin">
+                  <hi>6th.</hi> of <hi>May,</hi> 1693.</note> leaving Iſſue only the ſaid Daughter, and after his Death, the ſaid Truſtees (<hi>John Clerk<g ref="char:EOLhyphen"/>ſon</hi> and <hi>Richard Taylor</hi>) agreed with the Councel of <hi>Mary</hi> the Mother (the Infant being then but a little above ſix Years old) to allow 40 <hi>l. per Annum</hi> for her Maintenance, which Maintenance was by them paid to the Mother for two Years,
+<note place="margin">
+                  <hi>2d.</hi> of <hi>Jan.</hi> 1695.</note> and before the third Year was up, <hi>viz. 2d.</hi> of <hi>January,</hi> 1695, the ſaid <hi>Mary</hi> the Mother of the Infant inter-married with <hi>James Watkinſon,</hi> a mean Fellow, (who was her own Coachman, and had been her late Husband's Groom.)</p>
+            <p>The ſaid Truſtees being very much concerned for the Infant (as being not only Truſtees,<note place="margin">Tri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 1696.</note> but related to the Child, having married two of the Siſters of the Infant's Father) did preferr their Bill in Chancery againſt the ſaid <hi>Watkinſon</hi> and his Wife, thereby ſetting forth the ſaid Truſt and the Marriage of the Mother, to the intent to have the Infant preſerved from being made a Prey of by her Father-in-Law, and that ſhe might not be married to her diſadvantage.</p>
+            <p>
+               <hi>Watkinſon</hi> and his Wife put in their Anſwer to the ſaid Bill,<note place="margin">3d of <hi>August,</hi> 1696.</note> (which was peruſed and ſigned by <hi>Thomas Gooding,</hi> Ser<g ref="char:EOLhyphen"/>jeant at Law) whereupon the ſaid Serjeant <hi>Gooding</hi> finding that there was ſuch a Portion ſettled on the Infant (though otherways a ſtranger to the Family) he treated with <hi>Watkinſon</hi> and his Wife to marry the ſaid Infant to <hi>Thomas Good<g ref="char:EOLhyphen"/>ing</hi> his younger Son, who was then above three and Twenty Years old, and the Infant under Ten (as by the An<g ref="char:EOLhyphen"/>ſwer of <hi>Watkinſon</hi> and his Wife, and peruſed by the Serjeant, appears) and accordingly in the long Vacation, and before the Court of Chancery could make any order concerning the Child.</p>
+            <p>
+               <hi>Thomas Gooding</hi> the Younger (in order to get the Licence at Doctors Commons) maketh Oath,<note place="margin">
+                  <hi>29th.</hi> of <hi>September,</hi> 1696.</note> that the ſaid <hi>Han<g ref="char:EOLhyphen"/>nah Knight</hi> the Infant, was about 12 Years old, and thereupon the ſaid Infant was ſoon after taken into the Houſe of the ſaid Serjeant <hi>Gooding,</hi> and he now pretends that ſhe is married to his ſaid Son.</p>
+            <p>The ſaid Truſtees did petition the Lord Keeper concerning the ſaid Infant,<note place="margin">
+                  <hi>Hilary Term</hi> laſt.</note> complaining of the Proceedings of the ſaid <hi>Watkinſon</hi> and his Wife, and the ſaid Serjeant <hi>Gooding</hi> (pending the ſaid Bill in Chancery) and prayed that the ſaid Infant might be brought into Court, and committed to ſome indifferent Hand, untill ſhe ſhould attain her Age of Conſent;<note place="margin">
+                  <hi>12th.</hi> of <hi>February,</hi> 1696.</note> whereupon the Lord Keeper ordered, that <hi>Watkinſon,</hi> and his Wife, and Serjeant <hi>Gooding</hi> ſhould attend him with the Infant on the next Day of Petitions.</p>
+            <p>The ſaid Parties attended with the ſaid Infant,<note place="margin">
+                  <hi>12th</hi> of <hi>Mar.</hi> 1696.</note> and after the Petition and two Affidavits on the Petitioners part were read, Serjeant <hi>Gooding</hi> refuſed to conſent to deliver up the Child at that time, but deſired further time, in order to take Copies of the Petitioner's Affidavits, and to make his defence by Affidavits alſo; and thereupon the Lord Keeper ordered that the Child ſhould be brought again, and all Parties to attend him on the 18th of <hi>March</hi> then next enſuing, and that all Affidavits on either ſide ſhould be filed two days before.</p>
+            <p>The Petitioners with their Councel attended at the Lord Keeper's Houſe accordingly,<note place="margin">
+                  <hi>18th.</hi> of <hi>Mar.</hi> 1696.</note> but after ſome time Mrs. <hi>Watkinſon</hi> with ſome of Serjeant <hi>Gooding</hi>'s Daughters and Family, came with the Infant to my Lord Keeper's Houſe, but before the Infant was brought into Court, ſhe was taken away from the Company of her Mother and the Serjeant's Daughters and others of his Family that came with her, by a Woman who ſtood there ready, whoſe name, upon Inquiry, is <hi>Paſſmore,</hi> the Wife of one <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Paſſmore</hi> a Cook, who lodgeth in the <hi>Strand</hi> (which <hi>Paſſ<g ref="char:EOLhyphen"/>more</hi> was for four Years a Servant in Serjeant <hi>Gooding's</hi> Houſe) and is employed to make Mantoes for ſeveral of the Serjeant's Family, and had been but two days before at the Serjeant's Houſe.</p>
+            <p>My Lord Keeper ſent his Meſſenger to ſearch after this Woman (Mrs. <hi>Paſſmore</hi>) at her Lodgings, but ſhe could not be found, nor the Child; and then the Lord Keeper did Examine moſt of the Serjeant's Family, but both he as well as they, and alſo <hi>Watkinſon</hi> and his Wife, and <hi>Thomas Gooding</hi> the Younger, do all pretend that they do not know where the Child is, nor will they produce her.</p>
+            <p>It is ſuppoſed, that it is the Deſign of the Serjeant and his Son, and the other Confederates, either to keep the Child till ſhe comes to the Years of Conſent, and then to compell her to agree to the Marriage; or otherwiſe, that if the Child die before ſhe attain her Age of Twelve, that <hi>Thomas Gooding</hi> the Son will then be Intitled to take out Adminiſtration to the Infant, (under the Colour of this Mock-marriage) and thereby recover the 5000 <hi>l.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
